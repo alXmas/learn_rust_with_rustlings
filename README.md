@@ -1,5 +1,12 @@
 # learn-rust-with-rustlings
 
+Small exercises to get you used to reading and writing Rust code by 
+[*rustlings*](https://github.com/rust-lang/rustlings)
+
+## License
+
+All source code in the [RustLings Repo](https://github.com/rust-lang/rustlings)
+
 ## README (EN)
 
 Small exercises to get you used to reading and writing Rust code. Includes practice reading and responding to compiler messages! 
