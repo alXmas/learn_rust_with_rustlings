@@ -17,7 +17,7 @@ This repo is my rustlings' solution collection. Hope it can help you more or les
 
 * ✅ if
 * ✅ functions
-* ❎  variables
+* ✅  variables
 * ❎  primitive_types
 * ❎  strings
 * ❎  modules
